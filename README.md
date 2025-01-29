@@ -19,7 +19,7 @@ A modern shopping application built using **Jetpack Compose**, **Firebase**, and
 
 - Android Studio (latest version recommended)
 
-### 🔧 Installation
+###  Installation
 
 1. Clone this repository:
    ```bash
